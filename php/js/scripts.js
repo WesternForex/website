@@ -3,12 +3,18 @@ jQuery(function($){
 	$(document).ready(function() {
 		
 		// LOADER 
+
+		/*
 		$('body').jpreLoader({
 			
 			showSplash: false,
 			autoClose: true
 			
 		});
+
+		*/
+
+
 		
 		$('.dotted').hover(function(){
 			$('.video').css('z-index',1);
