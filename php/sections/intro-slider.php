@@ -4,7 +4,7 @@
    
         <div>
         
-            <span class="item-image" style="background-image: url(http://placehold.it/1920x1080);"></span>
+            <span class="item-image" style="background-image: url(img/mainbg1.jpg);"></span>
             
             <div id="intro-message">
             
