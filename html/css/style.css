@@ -36,8 +36,14 @@
 
 @font-face {
     font-family: "Avenir";
-    src: url("avenirmedium.otf");
+    src: url(Avenir/AvenirNextLTPro-Medium.otf);
 }
+
+@font-face {
+    font-family: "Avenir";
+    src: url(Avenir/AvenirNextLTPro-Bold.otf);
+    font-weight: bold;
+} 
 
 
 /* 1 - RESET */
@@ -49,7 +55,7 @@
 
 html, body {
     color: #555;
-    font-family: Impact;
+    font-family: "Avenir", Sans-Serif;
     font-size: 14px;
 	font-weight: 300;
     height: 100%;
@@ -72,7 +78,7 @@ a:link, a:visited, a:active {
 :focus {
 	outline: none !important;
 }
-f
+
 a {
     text-decoration: none;
 }
@@ -104,7 +110,7 @@ input, textarea {
 	
 	width: 100%;
 	
-	font-family: Impact;
+	font-family: "Avenir";
 	font-size: 16px;
 	font-weight: 300;
 }
