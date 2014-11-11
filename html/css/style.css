@@ -36,12 +36,12 @@
 
 @font-face {
     font-family: Avenir;
-    src: url(avenir/avenirnextltpro-medium.otf);
+    src: url(Avenir/AvenirNextLTPro-Medium.otf) format("opentype");;
 }
 
 @font-face {
     font-family: Avenir;
-    src: url(avenir/avenirnextltpro-bold.otf);
+    src: url(Avenir/AvenirNextLTPro-Bold.otf) format("opentype");;
     font-weight: bold;
 } 
 
