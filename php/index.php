@@ -4,7 +4,7 @@
     
     	<?php include('sections/menu-index-slider.php'); ?><!-- // MENU / LOG -->
     	        
-    	<?php include('sections/intro-slider.php'); ?><!-- // INTRO -->
+    	<?php include('sections/intro-parallax.php'); ?><!-- // INTRO -->
         
         <?php include('sections/overview.php'); ?><!-- // OVERVIEW -->
         

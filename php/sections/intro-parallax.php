@@ -1,11 +1,11 @@
 <div id="intro" class="section">
 
-    <div class="parallax dotted" style="background-image: url('http://placehold.it/1920x1080')"></div>
+    <div class="parallax dotted" style="background-image: url(img/mainbg1.jpg)"></div>
    
     <div id="intro-message">
     
-        <div class="intro-title padd-x-50">Fully Customizable</div>
-        <div class="intro-subtitle marg-x-50 bg-fs-clr">All sections that you need</div>
+        <div class="intro-title padd-x-50">Western Forex</div>
+        <div class="intro-subtitle marg-x-50 bg-fs-clr">Follow the money. Follow Forex.</div>
                            
     </div> 
     
