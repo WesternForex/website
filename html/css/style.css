@@ -36,14 +36,8 @@
 
 @font-face {
     font-family: 'Avenir';
-    src: url('avenirmedium.woff') format('woff');
+    src: url('avenirmedium.woff');
 }
-
-@font-face {
-    font-family: 'Avenir';
-    src: url('avenirbold.woff') format('woff');
-    font-weight: bold;
-} 
 
 
 /* 1 - RESET */
