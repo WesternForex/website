@@ -35,13 +35,13 @@
 /* 0 - Font */
 
 @font-face {
-    font-family: Avenir;
-    src: url(Avenir/AvenirNextLTPro-Medium.otf) format("opentype");
+    font-family: 'Avenir';
+    src: url('Avenir/AvenirNextLTPro-Medium.woff') format('woff');
 }
 
 @font-face {
-    font-family: Avenir;
-    src: url(Avenir/AvenirNextLTPro-Bold.otf) format("opentype");
+    font-family: 'Avenir', Sans-Serif;
+    src: url('Avenir/AvenirNextLTPro-Bold.woff') format('woff');
     font-weight: bold;
 } 
 
