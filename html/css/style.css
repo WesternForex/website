@@ -327,7 +327,6 @@ blockquote:first-letter {
     line-height: 120%;
 	text-align: center;
 	color: #fff;
-    text-transform: uppercase;
 }
 
 .intro-subtitle {
@@ -337,7 +336,6 @@ blockquote:first-letter {
     line-height: 130%;
 	color: #fff;
 	padding: 10px;
-	text-transform: uppercase;
 }
 
 /* 5 - HEADER */
