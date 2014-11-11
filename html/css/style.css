@@ -40,7 +40,7 @@
 }
 
 @font-face {
-    font-family: 'Avenir', Sans-Serif;
+    font-family: 'Avenir';
     src: url('AvenirNextLTPro-Bold.woff') format('woff');
     font-weight: bold;
 } 
@@ -55,7 +55,7 @@
 
 html, body {
     color: #555;
-    font-family: Avenir, Sans-Serif;
+    font-family: 'Avenir', Sans-Serif;
     font-size: 14px;
 	font-weight: 300;
     height: 100%;
@@ -110,7 +110,7 @@ input, textarea {
 	
 	width: 100%;
 	
-	font-family: Avenir;
+	font-family: 'Avenir';
 	font-size: 16px;
 	font-weight: 300;
 }
