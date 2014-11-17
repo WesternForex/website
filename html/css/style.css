@@ -337,16 +337,18 @@ blockquote:first-letter {
 
 .intro-title2 {
     clear: both;
-    font-size: 120px;
+    font-size: 70px;
     font-weight: 500;
 	color: #fff;
+	display: inline;
 }
 
 .intro-title3 {
     clear: both;
-    font-size: 420px;
+    font-size: 220px;
     font-weight: 500;
 	color: #fff;
+	display: inline;
 }
 
 .intro-subtitle {
