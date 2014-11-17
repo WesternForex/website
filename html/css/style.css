@@ -323,7 +323,6 @@ blockquote:first-letter {
 .intro-message2 {
     position: absolute;
 	width: 100%;
-    top: 10%;
 }
 
 .intro-title {
@@ -341,7 +340,7 @@ blockquote:first-letter {
     font-weight: 500;
 	color: #fff;
 	display: inline;
-	letter-spacing: -20px;
+	letter-spacing: -6px;
 }
 
 .intro-title3 {
