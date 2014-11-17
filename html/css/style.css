@@ -329,6 +329,20 @@ blockquote:first-letter {
 	color: #fff;
 }
 
+.intro-title2 {
+    clear: both;
+    font-size: 120px;
+    font-weight: 500;
+	color: #fff;
+}
+
+.intro-title3 {
+    clear: both;
+    font-size: 420px;
+    font-weight: 500;
+	color: #fff;
+}
+
 .intro-subtitle {
 	display: inline-block;
     font-size: 22px;
