@@ -341,6 +341,7 @@ blockquote:first-letter {
     font-weight: 500;
 	color: #fff;
 	display: inline;
+	letter-spacing: -20px;
 }
 
 .intro-title3 {
@@ -349,6 +350,7 @@ blockquote:first-letter {
     font-weight: 500;
 	color: #fff;
 	display: inline;
+	letter-spacing: -20px;
 }
 
 .intro-subtitle {
