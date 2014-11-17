@@ -320,6 +320,12 @@ blockquote:first-letter {
     top: 40%;
 }
 
+.intro-message2 {
+    position: absolute;
+	width: 100%;
+    top: 40%;
+}
+
 .intro-title {
     clear: both;
     font-size: 80px;
