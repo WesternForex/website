@@ -462,7 +462,6 @@ header.sticky:hover {
 	}
 	
 .main-menu .menu-item-parent > a:before {
-	content: '\e114';
 	font-family: 'icomoon';
 	padding-right: 5px;
 	cursor: pointer;
@@ -628,7 +627,6 @@ header.sticky:hover {
 	}
 	
 	#mobile-menu .menu-item-parent > a:after {
-		content: '\e114';
 		font-family: 'icomoon';
 		position: absolute;
 		right: 35px;
