@@ -628,7 +628,7 @@ header.sticky:hover {
 	}
 	
 	#mobile-menu .menu-item-parent > a:after {
-		content: '\e114';
+		
 		font-family: 'icomoon';
 		position: absolute;
 		right: 35px;
