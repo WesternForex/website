@@ -341,9 +341,7 @@ blockquote:first-letter {
     font-size: 70px;
     font-weight: 500;
 	color: #fff;
-	display: inline;
 	letter-spacing: -3px;
-	max-width: 100%;
 }
 
 .intro-title3 {
@@ -351,9 +349,7 @@ blockquote:first-letter {
     font-size: 220px;
     font-weight: 500;
 	color: #fff;
-	display: inline;
 	letter-spacing: -20px;
-	max-width: 100%;
 }
 
 .intro-subtitle {
