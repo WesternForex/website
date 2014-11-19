@@ -257,13 +257,6 @@ blockquote:first-letter {
     width: 100%;
 }
 
-.section2 {
-    clear: both;
-    height: auto;
-    position: absolute;
-    width: 100%;
-}
-
 /* intro slider */
 
 #intro {
@@ -297,7 +290,7 @@ blockquote:first-letter {
     left: 0px;
     color: transparent;
     background-size: cover;
-    background-position: 50% 50%;
+    background-position: 0% 0%;
     background-repeat: none;
 }
 
